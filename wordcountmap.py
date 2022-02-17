@@ -1,4 +1,4 @@
-
+#!/usr/bin/python
 import sys
 
 number_of_lines = 0
